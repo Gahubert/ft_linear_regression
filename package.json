@@ -5,6 +5,7 @@
   "main": "",
   "dependencies": {
     "@types/node": "^12.12.21",
+    "csv-parser": "^2.3.2",
     "npm": "^6.13.4",
     "typescript": "^3.7.4"
   },
