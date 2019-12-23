@@ -1,0 +1,17 @@
+{
+  "name": "ft_linear_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "@types/node": "^12.12.21",
+    "npm": "^6.13.4",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
